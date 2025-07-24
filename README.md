@@ -3,8 +3,11 @@
 Análisis exploratorio de datos
 
 Equipo 12 - BEDU
-Dataset: https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml
-Github: https://github.com/rodezi/EntregableBEDU_Analisis_Equipo12_ProyectoFinal/blob/main/Proyecto_Final_BEDU.ipynb
+
+Dataset: 
+
+https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml
+
 
 Numero total de transacciones: 8,754,485
 Proporción de transacciones legítimas y sospechosas (lavado de dinero):
